@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moopthing", "Moopthing\Moop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoopAWhile", "ConsoleApplication1\MoopAWhile.csproj", "{A8120B34-FFF5-439D-BDF1-56FD7FE27A47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{C9EAF1C5-277B-4190-B4EB-D7A40B7BDFA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoopIssison", "ConsoleApplication2\MoopIssison.csproj", "{C9EAF1C5-277B-4190-B4EB-D7A40B7BDFA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
