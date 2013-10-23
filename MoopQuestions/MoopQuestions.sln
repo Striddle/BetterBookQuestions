@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoopQuestions", "MoopQuestions\MoopQuestions.csproj", "{0B87BE4E-EBBF-44D8-AADB-865B676C0D9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moopthing", "Moopthing\Moopthing.csproj", "{324BD3D7-A44B-4405-BDE8-752BAFB85F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoopAWhile", "ConsoleApplication1\MoopAWhile.csproj", "{A8120B34-FFF5-439D-BDF1-56FD7FE27A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{C9EAF1C5-277B-4190-B4EB-D7A40B7BDFA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +19,18 @@ Global
 		{0B87BE4E-EBBF-44D8-AADB-865B676C0D9B}.Debug|x86.Build.0 = Debug|x86
 		{0B87BE4E-EBBF-44D8-AADB-865B676C0D9B}.Release|x86.ActiveCfg = Release|x86
 		{0B87BE4E-EBBF-44D8-AADB-865B676C0D9B}.Release|x86.Build.0 = Release|x86
+		{324BD3D7-A44B-4405-BDE8-752BAFB85F18}.Debug|x86.ActiveCfg = Debug|x86
+		{324BD3D7-A44B-4405-BDE8-752BAFB85F18}.Debug|x86.Build.0 = Debug|x86
+		{324BD3D7-A44B-4405-BDE8-752BAFB85F18}.Release|x86.ActiveCfg = Release|x86
+		{324BD3D7-A44B-4405-BDE8-752BAFB85F18}.Release|x86.Build.0 = Release|x86
+		{A8120B34-FFF5-439D-BDF1-56FD7FE27A47}.Debug|x86.ActiveCfg = Debug|x86
+		{A8120B34-FFF5-439D-BDF1-56FD7FE27A47}.Debug|x86.Build.0 = Debug|x86
+		{A8120B34-FFF5-439D-BDF1-56FD7FE27A47}.Release|x86.ActiveCfg = Release|x86
+		{A8120B34-FFF5-439D-BDF1-56FD7FE27A47}.Release|x86.Build.0 = Release|x86
+		{C9EAF1C5-277B-4190-B4EB-D7A40B7BDFA8}.Debug|x86.ActiveCfg = Debug|x86
+		{C9EAF1C5-277B-4190-B4EB-D7A40B7BDFA8}.Debug|x86.Build.0 = Debug|x86
+		{C9EAF1C5-277B-4190-B4EB-D7A40B7BDFA8}.Release|x86.ActiveCfg = Release|x86
+		{C9EAF1C5-277B-4190-B4EB-D7A40B7BDFA8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

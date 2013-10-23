@@ -1,0 +1,5 @@
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\MoopQuestions\bin\Debug\MoopQuestions.exe
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\MoopQuestions\bin\Debug\MoopQuestions.pdb
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\MoopQuestions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\MoopQuestions\obj\x86\Debug\MoopQuestions.exe
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\MoopQuestions\obj\x86\Debug\MoopQuestions.pdb

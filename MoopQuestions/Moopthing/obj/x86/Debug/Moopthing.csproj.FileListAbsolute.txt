@@ -1,0 +1,5 @@
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopthing\bin\Debug\Moopthing.exe
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopthing\bin\Debug\Moopthing.pdb
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopthing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopthing\obj\x86\Debug\Moopthing.exe
+C:\Users\EAHSCS\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopthing\obj\x86\Debug\Moopthing.pdb
