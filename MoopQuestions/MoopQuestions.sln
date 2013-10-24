@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoopIssison", "ConsoleAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moopagrams", "Moopagrams\Moopagrams.csproj", "{D3F7F4CA-925D-4998-AF93-AA5DEF9EE837}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOOPonents", "MOOPonents\MOOPonents.csproj", "{C60A3B09-D3F8-4A64-BFF6-6D9807A59308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{D3F7F4CA-925D-4998-AF93-AA5DEF9EE837}.Debug|x86.Build.0 = Debug|x86
 		{D3F7F4CA-925D-4998-AF93-AA5DEF9EE837}.Release|x86.ActiveCfg = Release|x86
 		{D3F7F4CA-925D-4998-AF93-AA5DEF9EE837}.Release|x86.Build.0 = Release|x86
+		{C60A3B09-D3F8-4A64-BFF6-6D9807A59308}.Debug|x86.ActiveCfg = Debug|x86
+		{C60A3B09-D3F8-4A64-BFF6-6D9807A59308}.Debug|x86.Build.0 = Debug|x86
+		{C60A3B09-D3F8-4A64-BFF6-6D9807A59308}.Release|x86.ActiveCfg = Release|x86
+		{C60A3B09-D3F8-4A64-BFF6-6D9807A59308}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
