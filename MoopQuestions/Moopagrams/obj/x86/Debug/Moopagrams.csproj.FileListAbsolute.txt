@@ -1,0 +1,5 @@
+C:\Users\Eahscs\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopagrams\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eahscs\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopagrams\bin\Debug\Moopagrams.exe
+C:\Users\Eahscs\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopagrams\bin\Debug\Moopagrams.pdb
+C:\Users\Eahscs\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopagrams\obj\x86\Debug\Moopagrams.exe
+C:\Users\Eahscs\Documents\GitHub\BetterBookQuestions\MoopQuestions\Moopagrams\obj\x86\Debug\Moopagrams.pdb
